@@ -1,6 +1,7 @@
 <!-- Intro -->
+# Hello This Is My Profile
 <!-- About Me -->
-## About Me:👾
+## About Me:
 
 I'm a senior at Lane Tech
 
