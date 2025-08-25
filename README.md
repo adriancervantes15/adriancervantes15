@@ -1,4 +1,14 @@
-## Hi there 👋
+<!-- Intro -->
+<!-- About Me -->
+## About Me:👾
+
+I'm a senior at Lane Tech
+
+<!-- Current -->
+## Interests: 🧠
+- Coding💻
+- AI👾
+- Soccer⚽️
 
 <!--
 **adriancervantes15/adriancervantes15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
